@@ -1,2 +1,2 @@
 # 20203029XXX	Kwon Kyeong Uk
-# Kookmin Univ. Sw
+# Kookmin Univ. Computer Science
